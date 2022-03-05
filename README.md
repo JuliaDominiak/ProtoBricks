@@ -2,13 +2,13 @@
 LEGO_mini_plate<br />
 The version is designed for a 4x4 tile<br />
 
-LEGO_plate_mini.ino - the main program<br />
-MPR_connections.ino - connecting with touch and color sensors<br />
-cap_1.ino - displaying data from the first sensor<br />
-cap_2.ino - displaying data from the second sensor<br />
-color.ino - perform a color scan and decode RGB values<br />
-location.ino - locate the pin for spike detection<br />
-decoding.ino - decoding the location.ino number from the pin to the XY coordinates<br />
+ * LEGO_plate_mini.ino - the main program<br />
+ * MPR_connections.ino - connecting with touch and color sensors<br />
+ * cap_1.ino - displaying data from the first sensor<br />
+ * cap_2.ino - displaying data from the second sensor<br />
+ * color.ino - perform a color scan and decode RGB values<br />
+ * location.ino - locate the pin for spike detection<br />
+ * decoding.ino - decoding the location.ino number from the pin to the XY coordinates<br />
 
 | Color  |No.|               
 | ------ | - |               
