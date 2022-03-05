@@ -24,3 +24,5 @@ Touch detection threshold: 150<br />
 Pin functions<br />
 pin 10 - adding / removing bricks<br />
 pin 8 - color detection<br />
+
+## LEGO_plate<br />
