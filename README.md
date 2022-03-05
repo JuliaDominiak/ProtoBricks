@@ -1,5 +1,5 @@
 # SmartBricks
-LEGO_mini_plate<br />
+## LEGO_mini_plate<br />
 The version is designed for a 4x4 tile<br />
 
  * LEGO_plate_mini.ino - the main program<br />
