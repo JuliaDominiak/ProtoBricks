@@ -34,6 +34,11 @@ int color_det() {
         co = "yellow";
         c=5;
        }
+       if(52<red && red<63 && 110<green && green<130 && 75<blue && blue<90)
+       {
+        co = "green";
+        c=6;
+       }
        delay(1000); 
        /*
        Serial.print("R:\t"); Serial.print(int(red)); 
@@ -43,6 +48,7 @@ int color_det() {
        Serial.print(co);
        Serial.print("\n");
        */
+       Serial.println(co);
        }
      tcs.setInterrupt(true);  // turn off LED
   return c;
