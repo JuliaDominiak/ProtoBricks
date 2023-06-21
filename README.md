@@ -17,6 +17,7 @@ The version is designed for a 4x4 tile<br />
 | Grey   | 3 |               
 | Orange | 4 |               
 | Yellow | 5 |
+| Green  | 6 |
 
 Touch sensor addresses - 0x5C, 0x5A<br />
 Touch detection threshold: 150<br />
