@@ -2,7 +2,7 @@
 ## code_brickPlate_4x4<br />
 The version is designed for a 4x4 tile<br />
 
- * **LEGO_plate_mini.ino** - the main program<br />
+ * **Brickplate_mini.ino** - the main program<br />
  * **MPR_connections.ino** - connecting with touch and color sensors<br />
  * **cap_1.ino** - displaying data from the first sensor<br />
  * **cap_2.ino** - displaying data from the second sensor<br />
@@ -26,4 +26,4 @@ Pin functions<br />
 pin 10 - adding / removing bricks<br />
 pin 8 - color detection<br />
 
-## LEGO_plate<br />
+
