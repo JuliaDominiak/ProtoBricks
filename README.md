@@ -1,5 +1,5 @@
 # ProtoBricks
-## LEGO_mini_plate<br />
+## code_brickPlate_4x4<br />
 The version is designed for a 4x4 tile<br />
 
  * **LEGO_plate_mini.ino** - the main program<br />
