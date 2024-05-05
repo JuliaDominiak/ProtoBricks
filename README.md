@@ -1,4 +1,4 @@
-# SmartBricks
+# ProtoBricks
 ## LEGO_mini_plate<br />
 The version is designed for a 4x4 tile<br />
 
